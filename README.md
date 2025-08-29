@@ -1,30 +1,17 @@
-# samexe
-<h1 align="center">Merhaba! Ben Samo 👋</h1>
-<p align="center"> Bilgisayar Mühendisi Adayı 📚</p>
+# Hi there 👋, I'm Samo
 
-<p align="center">
-Web geliştirici | Oyun meraklısı | Siber güvenlik sever
-</p>
+## 🚀 About Me
+I'm a **Computer Engineering student** passionate about **Data Engineering**. I love building **data pipelines**, **ETL processes**, and working with **big data technologies**.
 
----
+- 🔭 Currently learning: **Python, Pandas, SQL, Apache Spark**
+- 🌱 Exploring: **Data Warehousing, Cloud Data Platforms**
+- 💻 Projects: ETL pipelines, data cleaning & visualization
+- ⚡ Fun fact: I enjoy automating repetitive tasks with Python
 
-### 🚀 Hakkımda
-
-- 🎮 Mobil uygulamalar geliştiriyorum & öğreniyorum
-- 🌐 Web geliştirmeyi yeni öğrendim (HTML, CSS, JS)
-- 🔐 Siber güvenlik dikkatimi çekiyor
-- 📚 Yazın sahilde kitap okuyup kod yazıyorum
-- ✍️ Blog: [samo.dev](https://samo.dev)
-
----
-
-### 🔧 Kullandığım Araçlar & Diller
-<img src="https://skillicons.dev/icons?i=html,css,js,java,github,vscode" />
-
----
-
-### 📫 Bana Ulaş
-- Mail: `turgut.samet04@gmail.com`
-- Instagram: `@ssamet.aktas`
+## 🛠 Skills
+- **Languages:** Python, SQL
+- **Data Tools:** Pandas, NumPy, PostgreSQL, Apache Spark
+- **Cloud:** AWS (S3, Redshift), GCP (BigQuery)
+- **Other:** Git, Bash, Docker
 
 ---
