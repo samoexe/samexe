@@ -54,7 +54,7 @@
 
 ## 📫 Contact
 📧 Email (later)  
-🐙 GitHub: just scroll up  
+🐙 GitHub: https://github.com/samoexe  
 
 ---
 
