@@ -1,61 +1,66 @@
-<h1 align="center">🚀 Samo – Autonomous Systems Developer</h1>
+<h1 align="center">👋 Hi, I'm Samo</h1>
 <p align="center">
-  Working on UAVs, UGVs, VTOL, vision-based landing, MAVLink systems and autonomous robotics.
+  Computer Engineering student | Autonomous Systems Developer | Robotics & Defense Tech Enthusiast
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samoexe&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoexe&layout=compact&theme=tokyonight" height="170"/>
-</p>
+## 🚀 About Me
+I develop autonomous systems for **UAVs**, **VTOL**, **UGVs**, and defense-oriented robotic platforms.  
+My work includes **MAVLink**, **ArduPilot**, **PX4**, **vision-based landing**, **sensor fusion**, and **embedded systems**.
 
 ---
 
-## 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samoexe&theme=react-dark"/>
-</p>
+## 🛠️ Skills & Technologies
+
+### 🧩 Languages  
+![Python](https://img.shields.io/badge/Python-Advanced-blue?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-Advanced-blue?logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-orange?logo=java&logoColor=white)
+
+### 🤖 Robotics & Autonomy  
+![MAVLink](https://img.shields.io/badge/MAVLink-Protocol-red)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-Autopilot-green)
+![PX4](https://img.shields.io/badge/PX4-Flightstack-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-yellow)
+![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-orange)
+
+### 🔧 Tools  
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![ROS](https://img.shields.io/badge/ROS-Beginner-blue?logo=ros)
 
 ---
 
-## 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,opencv,git,github,linux,arduino,raspberrypi&perline=5"/>
-</p>
-
----
-
-## ✈️ Autonomous Systems Expertise
+## ✈️ Unmanned Systems
 
 ### UAV / UAS
-- Autonomous quadcopters, VTOL, fixed-wing  
-- MAVLink (ArduPilot / PX4)  
-- GPS missions, precision landing  
-- Computer vision landing systems  
-- Full sensor-fusion algorithms  
+- Autonomous quadcopter, VTOL & fixed–wing  
+- GPS-based navigation & autonomous missions  
+- Vision-based landing & tracking  
+- Camera + IMU fusion  
+- Drone–ground vehicle joint systems  
 
 ### UGV
-- GPS + Vision navigation  
-- Obstacle avoidance  
-- Embedded microcontroller systems  
-- RC → autonomous vehicle conversions  
+- GPS & CV-based navigation  
+- Obstacle detection & avoidance  
+- Autonomous RC vehicle conversion  
+- Embedded systems (ESP32, STM32, Arduino)
 
-### Defense & Robotics
-- Basic air-defense logic  
+### Defense Systems
+- Situational awareness  
+- Command & control logic  
 - Multi-vehicle coordination  
-- Real-time C2 architectures  
-- Telemetry + sensor fusion  
+- Basic air defense logic  
+- Real-time communication architectures  
 
 ---
 
-## 📫 Contact
-📧 Email (later)  
+## 📫 Contact  
+📧 Email: turgut.samet04@gmail.com  
 🐙 GitHub: https://github.com/samoexe  
 
 ---
 
-<h3 align="center"><i>“Autonomy is the backbone of tomorrow’s defense systems.”</i></h3>
+<h3 align="center"><i>“Autonomy isn’t the future — it’s the present.”</i></h3>
