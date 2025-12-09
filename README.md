@@ -15,7 +15,7 @@ My work includes **MAVLink**, **ArduPilot**, **PX4**, **vision-based landing**, 
 
 ### 🧩 Languages  
 ![Python](https://img.shields.io/badge/Python-Advanced-blue?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-Advanced-blue?logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-Intermediate-blue?logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Intermediate-orange?logo=java&logoColor=white)
 
 ### 🤖 Robotics & Autonomy  
@@ -24,12 +24,14 @@ My work includes **MAVLink**, **ArduPilot**, **PX4**, **vision-based landing**, 
 ![PX4](https://img.shields.io/badge/PX4-Flightstack-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-yellow)
 ![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-orange)
+![SITL](https://img.shields.io/badge/SITL-Software_in_the_Loop-blue)
+![MissionPlanner](https://img.shields.io/badge/MissionPlanner-GCS-purple)
 
 ### 🔧 Tools  
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![ROS](https://img.shields.io/badge/ROS-Beginner-blue?logo=ros)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-OS-orange?logo=ubuntu)
 
 ---
 
@@ -58,7 +60,7 @@ My work includes **MAVLink**, **ArduPilot**, **PX4**, **vision-based landing**, 
 ---
 
 ## 📫 Contact  
-📧 Email: turgut.samet04@gmail.com  
+📧 Email: turgut.samet04@gmail.com
 🐙 GitHub: https://github.com/samoexe  
 
 ---
